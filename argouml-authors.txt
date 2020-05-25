@@ -1,0 +1,28 @@
+tfmorris = Tom Morris <tfmorris@gmail.com>
+linus = Linus Tolke <ltolke@gmail.com>
+mvw = Michiel van der Wulp <mvw@tigris.org>
+closettop_nightlybuild = Argo Build Account <closettop_nightlybuild@tigris.org>
+bobtarling = Bob Tarling <bob.tarling@gmail.com>
+thn = Thomas <thn@tigris.org>
+penyaskito = Christian López Espínola <penyaskito@gmail.com>
+euluis = Luis Sergio Oliveira <euluis@tigris.org>
+dthompson = Dave Thompson <dthompson@tigris.org>
+b00__1 = Bogdan Pistol <b00__1@tigris.org>
+httpd = No Author <http@tigris.org>
+(noauthor) = No Author <noauthor@tigris.org>
+hudsonb = Brian Hudson <brian.r.hudson@gmail.com>
+andreas
+lepekhine
+rastaman = Ludovic Maitre <ludovic.maitre@free.fr>
+phidias
+bszanto
+thierrylach = Thierry Lach
+polygon7
+mkl
+maurelio1234
+kataka
+janmande
+elbedd
+drahmann
+bojar
+12345alex
